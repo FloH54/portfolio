@@ -1,61 +1,61 @@
 {
   "analyticsCode": "",
   "basics": {
-    "name": "Anmol Singh",
-    "label": "Software Developer",
-    "animated_main_label": "developer",
-    "animated_secondary_initial_label": "software",
+    "name": "Hannezo Florian",
+    "label": "Etudiant en développement informatique",
+    "animated_main_label": "developpeur",
+    "animated_secondary_initial_label": "Etudiant",
     "animated_secondary_final_label": "fullstack",
     "image": "/pfp.jpg",
-    "email": "anmolsingh51200@gmail.com",
-    "url": "https://anmol.pro",
-    "summary": "Full Stack developer with experience building and deploying production-ready web apps in freelance teams. Delivered two client websites and worked closely with teams to create scalable, maintainable solutions.",
+    "email": "hannezoflorian@gmail.com",
+    "url": "hannezoflorian@gmail.com",
+    "summary": "Jeune devloppeur, je cherche encore ma voix à travers les inombrables technologies qui existent. Je découvre en ce moment le dévellopement mobile et la gestion d'un serveur web",
     "theme": "platinum",
     "location": {
-      "address": "Panipat",
-      "city": "Haryana",
-      "countryCode": "IN",
-      "region": "India"
+      "address": "Seichamps",
+      "city": "Nancy",
+      "countryCode": "FR",
+      "region": "France"
     },
     "profiles": [
       {
-        "network": "X / Twitter",
+        "network": "Discord",
         "icon": "ri:twitter-fill",
         "color": "#1DA1F2",
-        "username": "@anmolthedev",
-        "url": "https://x.com/anmolthedev"
+        "username": "@floflow_",
+        "url": "https://discord.com/users/547228327543570432"
       },
       {
         "network": "GitHub",
         "icon": "mdi:github",
         "color": "#929AAB",
-        "username": "Anmol-TheDev",
-        "url": "https://github.com/Anmol-TheDev"
+        "username": "floflow",
+        "url": "https://github.com/FloH54"
       },
       {
         "network": "Email",
         "icon": "ri:mail-fill",
         "color": "#D44638",
-        "username": "anmolsingh",
-        "url": "mailto:anmolsingh51200@gmail.com"
+        "username": "floflow",
+        "url": "mailto:hannezoflorian@gmail.com"
       },
       {
         "network": "GitHub Stars",
         "icon": "ri:star-line",
         "color": "#FBBC05",
         "username": "Star on GitHub",
-        "url": "https://github.com/Anmol-TheDev/potfolio2.0"
+        "url": "https://github.com/PlumeDeRenard54/PhotoRoulette"
       }
     ]
   },
   "work": [
     {
-      "name": "Advika Innovate",
-      "position": "Frontend Developer",
-      "location_type": "Remote",
-      "location": "IN",
-      "url": "https://advikainnovate.com/",
-      "startDate": "2025-07-01",
+      "name": "BUT informatique",
+      "position": "Etudiant en 2ème année",
+      "location_type": "Nancy",
+      "location": "FR",
+      "url": "https://iut-charlemagne.univ-lorraine.fr/informatique/but-informatique/",
+      "startDate": "2026",
       "endDate": null,
       "summary": "Contributing to a centralized ecommerce platform to manage multiple ecommerce stores from a single interface, including order and inventory management.",
       "responsibilities": [
@@ -76,11 +76,11 @@
       }
     },
     {
-      "name": "PixelSaffron",
-      "position": "Full-Stack Developer",
-      "location_type": "Remote",
-      "location": "IN",
-      "url": "https://pixelsaffron.in/",
+      "name": "Banook Group",
+      "position": "Technicien volant",
+      "location_type": "Nancy",
+      "location": "FR",
+      "url": "https://www.banook.com",
       "startDate": "2024-10-03",
       "endDate": "2025-06-30",
       "summary": "Led front-end development for a full-stack eCommerce platform built for a Mumbai-based clothing brand. Implemented core features like order management, secure payment integration, and responsive UI for seamless user experience.",
@@ -95,22 +95,6 @@
       ],
 
       "skills": {
-        "Go": "simple-icons:go",
-        "Gin": "simple-icons:gin",
-        "HTML5": "simple-icons:html5",
-        "CSS3": "ri:css3-fill",
-        "Tailwind": "mdi:tailwind",
-        "Bootstrap": "simple-icons:bootstrap",
-        "JavaScript ": "simple-icons:javascript",
-        "TypeScript": "simple-icons:typescript",
-        "Next-Js": "simple-icons:nextdotjs",
-        "React": "simple-icons:react",
-        "NodeJS": "ri:nodejs-line",
-
-        "Bruno": "simple-icons:bruno",
-        "Redux": "simple-icons:redux",
-        "Git": "mdi:git",
-        "GitHub": "mdi:github"
       }
     }
   ],
@@ -279,63 +263,24 @@
   ],
   "languages": [
     {
-      "language": "Hindi",
-      "fluency": "Native speaker"
+      "language": "Français",
+      "fluency": "Natif"
     },
     {
-      "language": "English",
-      "fluency": "Intermediate"
+      "language": "Anglais",
+      "fluency": "Intermediaire"
     }
   ],
   "projects": [
     {
-      "name": "pixelsaffron",
-      "isActive": true,
-      "description": "A landing page for a startup with beautiful design and smooth animations.",
-      "highlights": [
-        "GSAP animations",
-        "Beautiful design",
-        "Smooth animations"
-      ],
-      "stack": {
-        "Vue": "simple-icons:vuedotjs",
-        "GSAP": "simple-icons:greensock",
-        "Tailwind": "mdi:tailwind"
-      },
-      "url": "https://pixelsaffron.in"
-    },
-{
-  "name": "ParticleFX",
-  "isActive": true,
-  "description": "A zero-dependency JavaScript library to create interactive particle effects from images using canvas. Easily works with React, Vue, or plain HTML. Customize animations, physics, and user interactions.",
-  "highlights": [
-    "🖼️ Turn Images into Particles",
-    "🌀 Hover & Click Effects",
-    "🎨 Custom Shapes & Filters",
-    "⚙️ Configurable Physics",
-    "📱 Responsive Design",
-    "📸 Export as PNG",
-    "📦 TypeScript Ready",
-    "✨ Works Without Any Framework"
-  ],
-  "stack": {
-    "JavaScript": "simple-icons:javascript",
-    "TypeScript": "simple-icons:typescript",
-    "CanvasAPI": "mdi:draw",
-    "HTML5": "simple-icons:html5"
-  },
-  "url": "https://particlefx.anmol.pro"
-},
-    {
-      "name": "Social Media WebApp",
+      "name": "Amicitia (Photo Roulette)",
       "isActive": false,
-      "description": "A modern social media application designed for real-time interaction and user engagement",
+      "description": "Le but de ce jeu et de partager des photos avec ses amis et de trouver le plus rapidement à qui elles appartiennent.",
       "highlights": [
-        "📝 CRUD Posts (Create, Read, Update, Delete)",
-        "💬 Real-time Chat (1:1 and group messaging)",
-        "👥 Follow System to connect with others",
-        "❤️ Like and react to posts",
-        "📞 Group Voice/Video Calling"
+        "🔧 En cours de création",
+        "🎲 Jeu de groupe",
+        "📷 Partage de photo",
+        "🤖 Produit pour android"
       ],
 
       "stack": {
@@ -348,18 +293,14 @@
       }
     },
     {
-      "name": "Notbasic",
-      "isActive": true,
-      "description": "An easy-to-use online store where you can browse, shop, and pay securely. It also has a simple admin panel to manage products and track orders smoothly.",
+      "name": "Giant Tic Tac Toe",
+      "isActive": false,
+      "description": "2 adversaires, 9 grilles de 9 cases, 1 seul gagnant. Redécouvré avec de nouvelless règles est une complexité acrue le morpion !",
       "highlights": [
-        "🛒 Cart Management",
-        "📦 Order Management",
-        "🚚 Delivery Tracking",
-        "👛 Wallet Integration",
-        "💳 Secure Payment Gateway",
-        "🧾 Invoice & Billing",
-        "🛍️ Product Browsing & Filtering",
-        "📊 Admin Dashboard"
+        "🔧 En cours de création",
+        "🌐 Jouables avec un utilisateur à distance",
+        "🎮 Plusieurs modes de jeu",
+        "🏆 Gestions de scores"
       ],
       "stack": {
         "Next-Js": "simple-icons:nextdotjs",
@@ -368,17 +309,17 @@
         "NodeJS": "ri:nodejs-line",
         "Mongodb": "simple-icons:mongodb"
       },
-      "url": "https://notbasic.in/"
+      "url": ""
     },
     {
-      "name": "Music WebApp",
-      "isActive": true,
-      "description": "A fun and smooth music streaming app where users can discover, play, and enjoy their favorite songs anytime. It features playlists, search, and seamless audio playback for a great listening experience.",
+      "name": "Task X (Trello)",
+      "isActive": false,
+      "description": "Projet de groupe (SAE) sur une application de gestion de tâches. Le but de ce projet était de mettre en place les différents patrons appris en cours.",
       "highlights": [
-        "🔥 Firebase Integration",
-        "🔐 User Authentication",
-        "🎵 Playlist Management",
-        "🔍 Song Search"
+        "📍 Gestion de Tâches",
+        "📁 Sauvegarde et exportatation d'un projet ",
+        "🤏 Drag and drop",
+        "👀 Différentes vues"
       ],
 
       "stack": {
@@ -386,20 +327,17 @@
         "tailwind": "mdi:tailwind",
         "Rest-Api": "mdi:api"
       },
-      "github": "https://github.com/Anmol-TheDev/Music_app",
-      "url": "https://music.anmol.pro"
+      "github": "https://github.com/Nath-YvUni/SAE_3.01_D-veloppement-d-une-application"
     },
     {
-      "name": "Stone-Su-man",
-      "isActive": true,
-      "description": "An online shop for selling unique hand-painted stone art, where customers can easily browse, order, and enjoy one-of-a-kind creations.",
+      "name": "NedVod (Netflix)",
+      "isActive": false,
+      "description": "Un projet de groupe visant à reproduire un netflix très simplifié.",
       "highlights": [
-        "🎨 Showcase Hand-Painted Stone Art",
-        "🛒 Easy Product Browsing & Cart",
-        "💳 Secure Online Payments",
-        "📦 Order & Delivery Tracking",
-        "📸 High-Quality Artwork Images",
-        "📱 Mobile-Friendly Design"
+        "🎬 Film et série",
+        "👥 Gestion Utilisateur",
+        "🔍 Recherches Paramétrées",
+        "🔏 Espace commentaire sécurisé"
       ],
       "stack": {
         "React": "simple-icons:react",
@@ -409,7 +347,27 @@
         "PNPM": "simple-icons:pnpm",
         "Hostinger": "simple-icons:hostinger"
       },
-      "url": "https://stone-su-man.com/"
+      "github": "https://github.com/AlexanderCARNET/NetVOD"
+    },
+    {
+      "name": "Deefy (Spotify)",
+      "isActive": false,
+      "description": "Un mini Spotify, simple, rapide et efficace. Le but était de prendre en main PHP",
+      "highlights": [
+        "🎵 Musique accessible",
+        "👥 Gestion Utilisateur",
+        "🔐 Upload sécurisé de fichier"
+
+      ],
+      "stack": {
+        "React": "simple-icons:react",
+        "TypeScript": "simple-icons:typescript",
+        "tailwind": "mdi:tailwind",
+        "Vite": "simple-icons:vite",
+        "PNPM": "simple-icons:pnpm",
+        "Hostinger": "simple-icons:hostinger"
+      },
+      "github": "https://github.com/FloH54/php_deefy"
     }
   ]
 }
