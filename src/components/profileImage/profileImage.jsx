@@ -14,7 +14,7 @@ function ProfileImage() {
     } else if (width < 1024) {
       return { width: 300, height: 300 };
     } else {
-      return { width: 400, height: 400 };
+      return { width: 750, height: 600 };
     }
   };
 

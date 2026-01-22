@@ -6,10 +6,10 @@ import { certificates } from '@cv'
 ---
 
 <Section className={Astro.props.className} title='Mon parcours'>
-  <ul class='space-y-4 py-3 print:space-y-0'>
+<ul class='space-y-4 py-3 print:space-y-0'>
     {
       education.map(
-        ({ institution, startDate, endDate, area, url }: { institution: string; startDate: string; endDate: string; area: string; url: string }) => {
+        ({ institution, startDate, endDate, area, url }: any) => {
           const startYear = new Date(startDate).getFullYear()
           const endYear =
             endDate != null ? new Date(endDate).getFullYear() : 'Actual'
