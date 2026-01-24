@@ -23,7 +23,7 @@
         "icon": "ri:discord-fill",
         "color": "#1DA1F2",
         "username": "@floflow_",
-        "url": "https://discord.com/users/547228327543570432"
+        "url": "https://discordapp.com/users/547228327543570432"
       },
       {
         "network": "GitHub",
@@ -343,9 +343,9 @@
       "github": "https://github.com/Nath-YvUni/SAE_3.01_D-veloppement-d-une-application"
     },
     {
-      "name": "NedVod (Netflix)",
-      "isActive": false,
-      "description": "Un projet de groupe visant à reproduire un netflix très simplifié.",
+      "name": "NetVOD (Netflix)",
+      "isActive": true,
+      "description": "Un projet de groupe visant à reproduire un netflix simplifié.",
       "highlights": [
         "🎬 Film et série",
         "👥 Gestion Utilisateur",
@@ -356,7 +356,8 @@
         "PHP": "simple-icons:php",
         "MySQL": "simple-icons:mysql"
       },
-      "github": "https://github.com/AlexanderCARNET/NetVOD"
+      "github": "https://github.com/AlexanderCARNET/NetVOD",
+      "url": "/netvod"
     },
     {
       "name": "Deefy (Spotify)",
