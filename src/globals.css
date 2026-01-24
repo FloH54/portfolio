@@ -3,6 +3,10 @@
 @tailwind utilities;
 
 @layer base {
+  html {
+    /* Exemple : Augmenter la taille de base à 18px */
+    font-size: 19px; 
+  }
   :root {
     --color-text-base: 0, 0, 0;
     --color-text-muted: 120, 120, 120;
