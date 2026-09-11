@@ -2,7 +2,7 @@
   "analyticsCode": "",
   "basics": {
     "name": "Hannezo Florian",
-    "label": "Étudiant en deuxième année de BUT Informatique ",
+    "label": "Étudiant en troisième année de BUT Informatique ",
     "animated_main_label": "développeur",
     "animated_secondary_initial_label": "Étudiant",
     "animated_secondary_final_label": "fullstack",
@@ -10,7 +10,7 @@
     "email": "hannezoflorian@gmail.com",
     "url": "hannezoflorian@gmail.com",
     "summary": "Élève curieux, qui aime apprendre et s'informer. À la recherche d'un stage pour parfaire ses compétences.",
-    "theme": "platinum",
+    "theme": "blue",
     "location": {
       "address": "Seichamps",
       "city": "Nancy",
@@ -51,17 +51,17 @@
   "work": [
     {
       "name": "BUT informatique",
-      "position": "Etudiant en 2ème année ",
+      "position": "Etudiant en 3ème année",
       "location_type": "Nancy",
       "location": "FR",
       "url": "https://iut-charlemagne.univ-lorraine.fr/informatique/but-informatique/",
       "startDate": "2024-09-01",
       "endDate": null,
-      "summary": "Gestion de projets de groupe, analyse, coordination et communication.",
+      "summary": "Gestion de projets de groupe, analyse, coordination et communication...",
       "responsibilities": [
         "Développement en Java, PHP et SQL.",
-        "Gestion de projets de groupe et expérience du travail de groupe.",
-        "Analyse, coordination, communication et utilisation de GIT."
+        "Gestion de projets, expérience du travail de groupe et utilisation de GIT.",
+        "Analyse, coordination, communication."
       ],
       "skills": {
         "Java": "ri:java-line",
@@ -72,10 +72,51 @@
         "CSS3": "ri:css3-fill",
         "HTML5": "simple-icons:html5",
         "Git": "mdi:git",
-        "GitHub": "mdi:github",
+        "GitHub": "mdi:github"
+      }
+    },
+    {
+      "name": "Grand Frais",
+      "position": "Employé de grande surface",
+      "location_type": "Nancy",
+      "location": "FR",
+      "startDate": "2026-07-06",
+      "endDate": "2026-08-02",
+      "responsibilities": [
+        "Conditionnement de produits du rayon épicerie (Olives, noix de cajou...)",
+        "Mise en rayon et rotation des stocks",
+        "Accueil client"
+      ]
+    },
+    {
+      "name": "Solco",
+      "position": "Développer, Documenter et Déployer une application de type ERP simplifié (Stage)",
+      "location_type": "Nancy",
+      "location": "FR",
+      "url": "https://www.solco.lu",
+      "startDate": "2026-02-12",
+      "endDate": "2026-04-16",
+      "summary": "Développement d'un ERP simplifié pour la gestion de projets et de tâche",
+      "responsibilities": [
+        "Conception et modélisation de la base de données relationnelle sous MariaDB et création des scripts d'initialisation SQL.",
+        "Développement du backend en TypeScript avec Node.js, Express et l'ORM Sequelize selon l'architecture MVC.",
+        "Sécurisation de l'application : authentification via JWT et cookies, hachage bcrypt, gestion des rôles et contrôle d'accès par middlewares.",
+        "Développement du frontend dynamique avec le moteur de templates EJS, le framework SB Admin 2 (Bootstrap 4) et DataTables.",
+        "Intégration d'échanges asynchrones (AJAX / Fetch API) pour la gestion des fenêtres modales et la validation des formulaires.",
+        "Déploiement applicatif sur serveur VPS sous Linux avec PM2 et gestion du versioning sous Git. ⚠\uFE0F Cette partie n'a pas été achevé de manière correcte. Je ne la considère pas comme une expérience aquise ⚠\uFE0F ",
+        "Réalisation de tests fonctionnels de bout en bout et rédaction des documentations techniques (architecture logicielle et tutoriels de déploiement)."
+      ],
+      "skills": {
+        "TypeScript": "simple-icons:typescript",
+        "MariaDB": "simple-icons:mariadb",
+        "Node.js": "simple-icons:nodedotjs",
+        "Express": "simple-icons:express",
+        "Sequelize": "simple-icons:sequelize",
+        "JavaScript": "simple-icons:javascript",
+        "Bootstrap": "simple-icons:bootstrap",
+        "Git": "mdi:git",
         "Linux": "simple-icons:linux",
-        "bash": "simple-icons:shell"
-
+        "JSON Web Tokens": "simple-icons:jsonwebtokens"
       }
     },
     {
@@ -93,25 +134,6 @@
         "Création de bons de livraisons et mise en forme des emballages pour les appareils de mesures médicales. "
       ],
       "skills": {}
-    },
-    {
-      "name": "CARSAT Nancy",
-      "position": "Stagiaire (Stage d'observation)",
-      "location_type": "Nancy",
-      "location": "FR",
-      "startDate": "2021-01-01",
-      "endDate": "2021-02-08",
-      "summary": "Stage d'observation en milieu informatique.",
-      "responsibilities": [
-        "Développement et maintenance : Java, PHP, SQL.",
-        "Help Desk : Création de session utilisateur, dépannage auprès des employés.",
-        "Création de page web (formulaire interactif)."
-      ],
-      "skills": {
-        "HTML5": "simple-icons:html5",
-        "CSS3": "ri:css3-fill",
-        "PHP": "simple-icons:php"
-      }
     }
   ],
   "education": [
@@ -293,6 +315,29 @@
   ],
   "projects": [
     {
+      "name": "Yieldtrack (Stage)",
+      "isActive": true,
+      "description": "L'application que j'ai peu réaliser pendant mon stage. ",
+      "highlights": [
+        "\uD83D\uDCC2 Gestion de Tâches et de projets",
+        "\uD83D\uDCCB Simplification Administrative",
+        "👥 Gestion Utilisateur"
+      ],
+      "stack": {
+        "TypeScript": "simple-icons:typescript",
+        "MariaDB": "simple-icons:mariadb",
+        "Node.js": "simple-icons:nodedotjs",
+        "Express": "simple-icons:express",
+        "Sequelize": "simple-icons:sequelize",
+        "JavaScript": "simple-icons:javascript",
+        "Bootstrap": "simple-icons:bootstrap",
+        "Git": "mdi:git",
+        "Linux": "simple-icons:linux",
+        "JSON Web Tokens": "simple-icons:jsonwebtokens"
+      },
+      "url": "public/HANNEZO_Florian_rapport.pdf"
+    },
+    {
       "name": "Amicitia (Photo Roulette)",
       "isActive": false,
       "description": "Le but de ce jeu est de partager des photos avec ses amis et de trouver le plus rapidement à qui elles appartiennent.",
@@ -343,7 +388,7 @@
       "github": "https://github.com/Nath-YvUni/SAE_3.01_D-veloppement-d-une-application"
     },
     {
-      "name": "NetVOD (Netflix)",
+      "name": "NetVOD (SAE)",
       "isActive": true,
       "description": "Un projet de groupe visant à reproduire un netflix simplifié.",
       "highlights": [
@@ -360,7 +405,7 @@
       "url": "/netvod"
     },
     {
-      "name": "Deefy (Spotify)",
+      "name": "Deefy (SAE)",
       "isActive": true,
       "description": "Un mini Spotify, simple, rapide et efficace. Le but était de prendre en main PHP",
       "highlights": [
