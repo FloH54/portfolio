@@ -389,7 +389,7 @@
     },
     {
       "name": "NetVOD (SAE)",
-      "isActive": true,
+      "isActive": false,
       "description": "Un projet de groupe visant à reproduire un netflix simplifié.",
       "highlights": [
         "🎬 Film et série",
@@ -402,11 +402,10 @@
         "MySQL": "simple-icons:mysql"
       },
       "github": "https://github.com/AlexanderCARNET/NetVOD",
-      "url": "/netvod"
     },
     {
       "name": "Deefy (SAE)",
-      "isActive": true,
+      "isActive": false,
       "description": "Un mini Spotify, simple, rapide et efficace. Le but était de prendre en main PHP",
       "highlights": [
         "🎵 Musique accessible",
@@ -418,7 +417,6 @@
         "MySQL": "simple-icons:mysql"
       },
       "github": "https://github.com/FloH54/php_deefy",
-      "url": "/deefy"
     }
   ]
 }
